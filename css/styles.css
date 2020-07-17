@@ -37,3 +37,11 @@ body{
 .navbar-dark{
     background-color: #333636;
 }
+.reserve{
+    background-color: orange;
+    color: white;
+}
+.res{
+    text-decoration: none;
+    color: black;
+}
